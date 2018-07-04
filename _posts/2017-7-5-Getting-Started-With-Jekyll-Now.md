@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With Jekyll Now
 ---
 
-So far, due to the excellent tutorials and documentation provided by Barry Clack, setting up jekyll and getting this website up and running has been a breeze.
+So far, due to the excellent tutorials and documentation provided by Barry Clark, setting up jekyll and getting this website up and running has been a breeze.
 
 The steps I followed so far:
 1.  Fork Barry Clark's **Jekyll Now repo** - [located here](https://github.com/barryclark/jekyll-now)
