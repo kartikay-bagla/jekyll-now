@@ -2,12 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-#Selected theme
-theme: jekyll-theme-hacker
-
 # Name of your site (displayed in the header)
 name: Kartikay Bagla
-title: Kartikay Bagla
 
 # Short bio or description (displayed in the header)
 description: Python Programmer
