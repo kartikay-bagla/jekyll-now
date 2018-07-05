@@ -2,8 +2,12 @@
 # This file contains configuration flags to customize your site
 #
 
+#Selected theme
+theme: jekyll-theme-hacker
+
 # Name of your site (displayed in the header)
 name: Kartikay Bagla
+title: Kartikay Bagla
 
 # Short bio or description (displayed in the header)
 description: Python Programmer
@@ -73,7 +77,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
