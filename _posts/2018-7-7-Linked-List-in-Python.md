@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Huffman Text Compression in Python - Part 1
+title: Linked List Implementation in Python
 ---
 
 I've started learning different Data Structures and Algorithms. So I began with Linked Lists. It contains basic features like indexing, inserting, removing and a binary search.
