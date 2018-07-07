@@ -81,7 +81,8 @@ class LinkedList(object):
             while actualNode.nextNode is not None:
                 actualNode = actualNode.nextNode
             actualNode.nextNode = newNode
-
+    ```
+    ```python
     def insertIndex(self, index, data):
         """Inserts data at index i in O(n) time."""
         actualNode = self.head
