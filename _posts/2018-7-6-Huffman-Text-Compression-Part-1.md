@@ -179,7 +179,7 @@ So here's the code stepwise
         self.heap.sort()
 ```
 
-3. Here's the code for step 2:
+3. Here's the code for step 3:
 ```python
     def create_graph(self):
         """Creates a Huffman graph from self.heap"""
@@ -192,7 +192,7 @@ So here's the code stepwise
             self.heap.push(merged)
 ```
 
-4. Here's the code for step 2:
+4. Here's the code for step 4:
 ```python
     def _make_codes_recur(self, node, code):
         """Recursive function for mapping digits to characters"""
@@ -214,7 +214,7 @@ So here's the code stepwise
         self._make_codes_recur(self.node, code)
 ```
 
-5. Here's the code for step 2:
+5. Here's the code for step 5:
 ```python
     def encode_text(self, text):
         """Encodes the text using the coded values in self.codes"""
@@ -224,7 +224,7 @@ So here's the code stepwise
         return encoded_text
 ```
 
-6. Here's the code for step 2:
+6. Here's the code for step 6:
 ```python
     def pad_text(self, text):
         """Pads the encoded text with 0's to make it complete bytes of data"""
@@ -236,7 +236,7 @@ So here's the code stepwise
         return text
 ```
 
-7. Here's the code for step 2:
+7. Here's the code for step 7:
 ```python
     def byte_array(self, text):
         """Creates a byte array out of the padded text"""
