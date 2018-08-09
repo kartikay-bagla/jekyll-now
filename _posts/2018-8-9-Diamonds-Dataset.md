@@ -3,7 +3,7 @@ layout: post
 title: Diamonds Dataset
 ---
 
-Today I completed a project of mine, which was to predict the transaction value of diamonds given certain properties. Its uploaded on my GitHub profile ([here](https://github.com/kartikay-bagla/Diamond-Price-Regression)) and on my Kaggle profile ([here]()).
+Today I completed a project of mine, which was to predict the transaction value of diamonds given certain properties. Its uploaded on my GitHub profile ([here - gonna be updated soon](https://github.com/kartikay-bagla/Diamond-Price-Regression)) and on my Kaggle profile ([here](https://www.kaggle.com/drvader/diamonds-dataset-exploration-and-regression)).
 
 The notebook has some comments and headings to explain what is going on. But you might have to turn to documentation, stackoverflow and google to completely know what's going on in there.  
 The dataset is a simple collection of over 50000 diamond transactions which has features like the cut quality, color, depth, table, carat, price etc. and is hosted at Kaggle ([here](https://www.kaggle.com/shivam2503/diamonds)). My goal was to explore the data and try to find the transaction values within an absolute error of 500$.
