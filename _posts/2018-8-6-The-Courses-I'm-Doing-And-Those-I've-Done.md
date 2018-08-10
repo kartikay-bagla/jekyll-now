@@ -4,6 +4,7 @@ title: The Courses I'm Doing And Those I've Done
 ---
 
 As promised in the previous post, here we are! The list of courses/tutorials I've completed and am doing currently.  
+
 (This includes some books I followed as well)  
 (These links are not affiliate links and I do not earn any commission from them)
 
