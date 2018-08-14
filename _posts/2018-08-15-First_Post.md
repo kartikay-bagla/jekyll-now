@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "All Systems Are A Go!"
-date: 15-08-2018
+date: 2018-08-15
 categories: general update
 ---
 
