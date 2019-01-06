@@ -27,6 +27,7 @@ Now there are 3 types of primary constants in C i.e. Integer constant, Real cons
 
 * Its pretty much an integer but with decimal and larger range.
 * -3.4 x 10^38 to 3.4 x 10^38 is its range.
+* But if we need more precision, we can use a `double`. It is same as a floating point number, but with an increased range i.e. 2.3 x 10^-308 to 1.7 x 10^308.
 
 ### Character Constant
 
@@ -40,7 +41,7 @@ Now there are 3 types of primary constants in C i.e. Integer constant, Real cons
 Now C is very picky and needs you to tell it everything. You have to tell it what kind of information will the variable store when you create (or declare) the variable.
 
 * For integers, it is `int`.
-* For real numbers, it is `float`.
+* For real numbers, it is `float` (or `double`).
 * For single-characters, it is `char`.
 
 So if I wanted a variable named my_gpa to store my GPA for me. I'd declare it like this: `float my_gpa;` (always remember the semicolon at the end of every statement.)  
