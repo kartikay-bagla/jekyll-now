@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decisions Decisionsm But What If?
+title: Decisions Decisions But What If?
 ---
 
 To make decisions, we must compare things. And to compare things, we need logic.
