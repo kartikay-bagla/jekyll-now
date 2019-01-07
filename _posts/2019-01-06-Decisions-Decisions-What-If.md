@@ -9,7 +9,7 @@ To make decisions, we must compare things. And to compare things, we need logic.
 
 These operators return 1 or 0 based on the inputs recieved:
 
-* `>` - The greater than operator: Returns `1` if the input on its left is greater than the one on its right. Otherwise returns `0`.
+* `>` - The greater than operator:Fixe Returns `1` if the input on its left is greater than the one on its right. Otherwise returns `0`.
 * `<` - The less than operator: Returns `1` if the input on its right is greater than the one on its left. Otherwise returns `0`.
 * `>=` - The greater than or equal to operator: Returns `1` if the input on its left is greater than or equal to the one on its right. Otherwise returns `0`.
 * `<=` - The less than or equal to operator: Returns `1` if the input on its right is greater than or equal to the one on its left. Otherwise returns `0`.
